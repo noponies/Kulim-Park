@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Kulim Park
 
-You can use the [editor on GitHub](https://github.com/noponies/Kulim-Park/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Kulim Park is a humanist sans serif typeface, with high x-height, open counter ‘a’, minimal degrees of contrast in stem width, inviting bowls and a design language aimed at encapsulating openness.
 
 ![Image](images/kulim-park2.jpg)
 ![Image](images/kulim-park3.jpg)
@@ -16,35 +14,3 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ![Image](images/kulim-park11.jpg)
 ![Image](images/kulim-park12.jpg)
 ![Image](images/kulim-park13.jpg)
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/noponies/Kulim-Park/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
