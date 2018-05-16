@@ -26,7 +26,7 @@ Distilling the above down into a brief for the design of Kulim Park (typeface) t
 * Permissive licence (accessibility, utility)
 
 ### Formal Language
-Kulim Park is a humanist sans serif typeface, with high x-height, open counter 'a', minimal degrees of contrast in stem width, inviting bowls and a design language aimed at encapsulating openness. 
+Kulim Park is a humanist sans serif typeface, with high x-height, open counter 'a', minimal degrees of contrast in stem width, inviting bowls and a design language aimed at encapsulating openness.
 
 ### Bibliography
 Blaschke, P. (2013). _Health and wellbeing benefits of conservation in New Zealand (New Zealand, Department of Conservation)_. Wellington, WGTN: Publishing Team, Department of Conservation.
