@@ -2,6 +2,9 @@
 
 Kulim Park is a humanist sans serif typeface, with high x-height, open counter ‘a’, minimal degrees of contrast in stem width, inviting bowls and a design language aimed at encapsulating openness.
 
+### Project documentation
+[Documentation](https://github.com/noponies/Kulim-Park/wiki)
+
 ### Available weights
 Extra Light  
 Light  
