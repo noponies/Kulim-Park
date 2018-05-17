@@ -33,7 +33,7 @@ Blaschke, P. (2013). _Health and wellbeing benefits of conservation in New Zeala
 
 National Recreation and Park Association [NRPA] (2010). _Why Parks and Recreation are Essential Public Services_.  Retrieved from https://www.nrpa.org/uploadedFiles/nrpa.org/Advocacy/Resources/Parks-Recreation-Essential-Public-Services-January-2010.pdf
 
-OpenStreetMap contributors. (n.d.)._ OpenStreetMap_. Retrieved from https://www.openstreetmap.org/#map= 17/-37.66460/176.14892
+OpenStreetMap contributors. (n.d.)._OpenStreetMap_. Retrieved from https://www.openstreetmap.org/#map= 17/-37.66460/176.14892
 
 Phillips, P. (2012). _Creating the perfect design brief_ (2nd ed., p. 16). New York: Allworth Press.
 
