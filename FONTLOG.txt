@@ -1,0 +1,37 @@
+FONTLOG for Kulim Park fonts
+
+This file provides detailed information on the Kulim Park
+Font Software.
+
+This information should be distributed along with the 
+Kulim Park fonts and any derivative works.
+
+Basic Font Information
+
+Kulim Park is a humanist sans serif typeface, with high x-height, open counter 'a', minimal degrees of contrast in stem width, inviting bowls and a design language aimed at encapsulating openness.
+
+This typeface is the result of an exploration of how a local park redevelopment can inform a typographic design.
+
+More detailed information can be found here: https://noponies.github.io/Kulim-Park/
+
+More specifically, this release supports the following 
+Unicode ranges: Latin-1, 
+
+To contribute to the project contact Dale Sattler 
+at dale@noponies.com
+
+ChangeLog
+
+23 July 2018 (Dale Sattler) Kulim Park v1
+- Initial release
+
+Acknowledgements
+
+If you make modifications be sure to add your name (N), 
+email (E), web-address (if you have one) (W) and 
+description (D). This list is in alphabetical order.
+
+N: Dale Sattler [Noponies]
+E: dale@noponies.com
+W: http://noponies.com
+D: Original Type Designer
