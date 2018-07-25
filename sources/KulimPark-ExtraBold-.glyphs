@@ -1,13 +1,13 @@
 {
-.appVersion = "939";
+.appVersion = "1141";
 DisplayStrings = (
 i,
-/lslash,
-/Lslash,
+"/lslash",
+"/Lslash",
 Y,
 A,
 abdo,
-/Hbar,
+"/Hbar",
 a
 );
 copyright = "Copyright (C) 2018 by Dale Sattler. All rights reserved.";
@@ -27,6 +27,7 @@ alignmentZones = (
 );
 ascender = 840;
 capHeight = 700;
+custom = Extra;
 customParameters = (
 {
 name = typoAscender;
@@ -71,6 +72,7 @@ horizontalStems = (
 105
 );
 id = "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0";
+name = "Extra Bold";
 userData = {
 GSOffsetHorizontal = 15;
 GSOffsetVertical = 10;
