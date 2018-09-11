@@ -1,7 +1,8 @@
 {
 .appVersion = "1141";
 DisplayStrings = (
-C
+C,
+K
 );
 classes = (
 {
@@ -2589,11 +2590,11 @@ layers = (
 anchors = (
 {
 name = bottom;
-position = "{269, 0}";
+position = "{238, 0}";
 },
 {
 name = top;
-position = "{355, 700}";
+position = "{410, 700}";
 }
 );
 layerId = "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0";
@@ -2601,32 +2602,32 @@ paths = (
 {
 closed = 1;
 nodes = (
-"349 435 LINE",
+"296 352 LINE",
 "604 702 LINE",
-"441 702 LINE",
-"201 452 LINE",
+"456 702 LINE",
+"197 419 LINE",
 "232 701 LINE",
 "113 701 LINE",
 "27 0 LINE",
 "146 0 LINE",
-"179 257 LINE",
-"253 334 LINE",
-"397 0 LINE",
-"537 0 LINE"
+"181 280 LINE",
+"201 251 LINE",
+"374 0 LINE",
+"514 0 LINE"
 );
 }
 );
-width = 612;
+width = 589;
 },
 {
 anchors = (
 {
 name = bottom;
-position = "{264, 0}";
+position = "{234, 0}";
 },
 {
 name = top;
-position = "{350, 700}";
+position = "{406, 700}";
 }
 );
 layerId = "3C8330F3-4770-4812-9C95-859F387513C1";
@@ -2634,22 +2635,22 @@ paths = (
 {
 closed = 1;
 nodes = (
-"302 452 LINE",
+"206 357 LINE",
 "552 702 LINE",
-"481 702 LINE",
+"483 702 LINE",
 "121 342 LINE",
 "165 701 LINE",
 "113 701 LINE",
 "27 0 LINE",
 "79 0 LINE",
-"112 261 LINE",
-"260 410 LINE",
-"450 0 LINE",
-"510 0 LINE"
+"112 264 LINE",
+"165 315 LINE",
+"405 0 LINE",
+"465 0 LINE"
 );
 }
 );
-width = 585;
+width = 540;
 }
 );
 unicode = 004B;
