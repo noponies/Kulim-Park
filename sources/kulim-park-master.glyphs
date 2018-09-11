@@ -5,7 +5,8 @@ DisplayStrings = (
 k,
 K,
 e,
-o
+o,
+Kk
 );
 classes = (
 {
@@ -2595,16 +2596,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"304 418 LINE",
+"276 352 LINE",
 "540 702 LINE",
-"378 702 LINE",
-"169 452 LINE",
+"394 702 LINE",
+"169 419 LINE",
 "169 701 LINE",
 "50 701 LINE",
 "50 0 LINE",
 "169 0 LINE",
-"169 257 LINE",
-"219 317 LINE",
+"169 280 LINE",
+"191 251 LINE",
 "396 0 LINE",
 "538 0 LINE"
 );
@@ -2638,16 +2639,16 @@ paths = (
 {
 closed = 1;
 nodes = (
-"242 419 LINE",
+"185 357 LINE",
 "488 702 LINE",
-"418 702 LINE",
+"420 702 LINE",
 "102 342 LINE",
 "102 701 LINE",
 "50 701 LINE",
 "50 0 LINE",
 "102 0 LINE",
-"102 261 LINE",
-"205 377 LINE",
+"102 264 LINE",
+"148 315 LINE",
 "427 0 LINE",
 "488 0 LINE"
 );
@@ -2672,7 +2673,7 @@ transform = "{1, 0, 0, 1, 178, 0}";
 }
 );
 layerId = "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0";
-width = 584;
+width = 580;
 },
 {
 components = (
