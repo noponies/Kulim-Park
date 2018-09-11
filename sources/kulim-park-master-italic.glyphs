@@ -1,5 +1,8 @@
 {
 .appVersion = "1141";
+DisplayStrings = (
+C
+);
 classes = (
 {
 automatic = 1;
