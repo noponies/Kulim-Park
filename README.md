@@ -10,9 +10,9 @@ Kulim Park is part of a larger series of site specific typefaces completed as pa
 ### Available weights - Each weight is also available in italic
 Extra Light  
 Light  
-Regular	
-Semi Bold
-Bold
+Regular  
+Semi Bold  
+Bold  
  
 
 ![Image](images/kulim-park-cover.png)
