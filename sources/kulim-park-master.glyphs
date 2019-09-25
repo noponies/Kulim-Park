@@ -21645,6 +21645,10 @@ customParameters = (
 {
 name = "TTFAutohint options";
 value = "--windows-compatibility";
+},
+{
+name = weightClass;
+value = 275;
 }
 );
 interpolationWeight = 200;
