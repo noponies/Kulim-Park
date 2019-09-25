@@ -21847,6 +21847,32 @@ width = 365;
 unicode = 00A8;
 },
 {
+glyphname = grave;
+layers = (
+{
+components = (
+{
+alignment = 1;
+name = gravecomb;
+}
+);
+layerId = "3C8330F3-4770-4812-9C95-859F387513C1";
+width = 162;
+},
+{
+components = (
+{
+alignment = 1;
+name = gravecomb;
+}
+);
+layerId = "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0";
+width = 178;
+}
+);
+unicode = 0060;
+},
+{
 glyphname = macron;
 layers = (
 {
@@ -21984,20 +22010,6 @@ width = 0;
 }
 );
 unicode = 0000;
-},
-{
-glyphname = "uni00ADuni00AF,uni00B4,uni00B5,uni00B8,uni02C6,uni02DA,uni02DC,uni2215";
-layers = (
-{
-layerId = "3C8330F3-4770-4812-9C95-859F387513C1";
-width = 600;
-},
-{
-layerId = "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0";
-width = 600;
-}
-);
-unicode = 00ADUNI00AF,UNI00B4,UNI00B5,UNI00B8,UNI02C6,UNI02DA,UNI02DC,UNI2215;
 }
 );
 instances = (
