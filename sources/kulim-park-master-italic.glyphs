@@ -243,16 +243,28 @@ capHeight = 700;
 custom = Extra;
 customParameters = (
 {
+name = hheaAscender;
+value = 931;
+},
+{
+name = hheaDescender;
+value = -204;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
-value = 840;
+value = 931;
 },
 {
 name = typoDescender;
-value = -205;
+value = -204;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
@@ -261,18 +273,6 @@ value = 931;
 {
 name = winDescent;
 value = 238;
-},
-{
-name = hheaAscender;
-value = 840;
-},
-{
-name = hheaDescender;
-value = -205;
-},
-{
-name = hheaLineGap;
-value = 250;
 }
 );
 descender = -205;
@@ -321,16 +321,28 @@ ascender = 840;
 capHeight = 700;
 customParameters = (
 {
+name = hheaAscender;
+value = 931;
+},
+{
+name = hheaDescender;
+value = -204;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
 name = typoAscender;
-value = 840;
+value = 931;
 },
 {
 name = typoDescender;
-value = -205;
+value = -204;
 },
 {
 name = typoLineGap;
-value = 250;
+value = 0;
 },
 {
 name = winAscent;
@@ -339,18 +351,6 @@ value = 931;
 {
 name = winDescent;
 value = 238;
-},
-{
-name = hheaAscender;
-value = 840;
-},
-{
-name = hheaDescender;
-value = -205;
-},
-{
-name = hheaLineGap;
-value = 250;
 }
 );
 descender = -205;
