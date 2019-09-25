@@ -1,5 +1,5 @@
 {
-.appVersion = "1141";
+.appVersion = "1230";
 DisplayStrings = (
 C,
 K
@@ -11,7 +11,7 @@ code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atild
 name = Uppercase;
 }
 );
-copyright = "Copyright (c) 2018, Dale Sattler [Noponies] <dale@noponies.com>.";
+copyright = "Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park)";
 customParameters = (
 {
 name = license;
@@ -2661,9 +2661,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = K;
 },
 {
+alignment = -1;
 name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 186, 0}";
 }
@@ -2674,9 +2676,11 @@ width = 612;
 {
 components = (
 {
+alignment = -1;
 name = K;
 },
 {
+alignment = -1;
 name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 212, 0}";
 }
@@ -8211,9 +8215,11 @@ layers = (
 {
 components = (
 {
+alignment = -1;
 name = k;
 },
 {
+alignment = -1;
 name = commaaccentcomb;
 transform = "{1, 0, 0, 1, 180, 0}";
 }
@@ -17863,7 +17869,7 @@ glyphname = nbspace;
 layers = (
 {
 layerId = "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0";
-width = 450;
+width = 380;
 },
 {
 associatedMasterId = "3C8330F3-4770-4812-9C95-859F387513C1";
@@ -17872,7 +17878,7 @@ width = 450;
 },
 {
 layerId = "3C8330F3-4770-4812-9C95-859F387513C1";
-width = 450;
+width = 380;
 }
 );
 unicode = 00A0;
@@ -17882,7 +17888,7 @@ glyphname = CR;
 layers = (
 {
 layerId = "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0";
-width = 450;
+width = 380;
 },
 {
 associatedMasterId = "3C8330F3-4770-4812-9C95-859F387513C1";
@@ -17891,7 +17897,7 @@ width = 450;
 },
 {
 layerId = "3C8330F3-4770-4812-9C95-859F387513C1";
-width = 450;
+width = 380;
 }
 );
 unicode = 000D;
@@ -23135,6 +23141,20 @@ nodes = (
 width = 529;
 }
 );
+},
+{
+glyphname = NULL;
+layers = (
+{
+layerId = "3C8330F3-4770-4812-9C95-859F387513C1";
+width = 0;
+},
+{
+layerId = "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0";
+width = 0;
+}
+);
+unicode = 0000;
 }
 );
 instances = (
@@ -23187,8 +23207,7 @@ instanceInterpolations = {
 "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0" = 0.4;
 };
 isItalic = 1;
-linkStyle = Regular;
-name = "Regular Italic";
+name = Italic;
 },
 {
 customParameters = (
@@ -23220,8 +23239,8 @@ interpolationWidth = 5;
 instanceInterpolations = {
 "4BC9CD2E-8AD0-40CC-97AA-8C7B556514B0" = 1;
 };
+isBold = 1;
 isItalic = 1;
-linkStyle = Bold;
 name = "Bold Italic";
 weightClass = Bold;
 }
@@ -24009,7 +24028,7 @@ comma = -20;
 };
 };
 manufacturer = Noponies;
-manufacturerURL = "http:noponies.com";
+manufacturerURL = "http://http:noponies.com";
 unitsPerEm = 1000;
 userData = {
 GSDimensionPlugin.Dimensions = {

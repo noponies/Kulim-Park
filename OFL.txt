@@ -1,4 +1,4 @@
-Copyright (c) 2018, Dale Sattler [Noponies] <dale@noponies.com>.
+Copyright 2018 The Kulim Park Project Authors (https://github.com/noponies/Kulim-Park)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
